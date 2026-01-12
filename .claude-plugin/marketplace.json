@@ -1,0 +1,32 @@
+{
+  "name": "laravel-api",
+  "owner": {
+    "name": "Steve King",
+    "email": "steve@juststeveking.com"
+  },
+  "metadata": {
+    "description": "A comprehensive Claude skill for building production-grade Laravel REST APIs with clean architecture and best practices"
+  },
+  "plugins": [
+    {
+      "name": "laravel-api",
+      "source": "./laravel-api",
+      "description": "Build production-grade Laravel REST APIs with stateless design, boundary-first architecture, type safety, and Laravel best practices",
+      "version": "1.0.0",
+      "author": {
+        "name": "Steve King",
+        "email": "steve@juststeveking.com"
+      },
+      "category": "productivity",
+      "tags": [
+        "laravel",
+        "api",
+        "rest",
+        "backend",
+        "architecture",
+        "code-quality",
+        "php"
+      ]
+    }
+  ]
+}
