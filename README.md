@@ -17,7 +17,7 @@ This skill guides Claude in building Laravel REST APIs using opinionated archite
 
 ### Option 1: Claude.ai / Claude App
 
-1. Download [laravel-api.skill](https://github.com/YOUR_USERNAME/laravel-api-skill/releases/latest/download/laravel-api.skill)
+1. Download [laravel-api.skill](https://github.com/juststeveking/laravel-api-skill/releases/latest/download/laravel-api.skill)
 2. Open Claude.ai or Claude app → Settings → Skills
 3. Click "Add Skill" or "Import Skill"
 4. Upload the `laravel-api.skill` file
