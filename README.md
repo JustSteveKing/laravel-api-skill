@@ -28,8 +28,8 @@ This skill guides Claude in building Laravel REST APIs using opinionated archite
 If you're using Claude Code, you can install via the marketplace:
 
 ```bash
-/plugin marketplace add YOUR_USERNAME/laravel-api-skill
-/plugin install laravel-api@YOUR_USERNAME
+/plugin marketplace add juststeveking/laravel-api-skill
+/plugin install laravel-api@juststeveking
 ```
 
 ## 🚀 Quick Start
